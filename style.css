@@ -1,0 +1,28 @@
+body {
+    font-family: 'Patrick Hand', cursive;
+    color: black;
+    background-size: cover;
+}
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    background-color: #f0e4d7;
+}
+#status {
+    font-size: 20px;
+    background-color: #c7bbbc;
+}
+canvas {
+    box-shadow: 10px 10px 10px #a0ddc1;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#button_div {
+    margin-top: 55px;
+}
+#button_div button {
+    font-size: 20px;
+    background-color: #c7bbbc;
+    width: 30%;
+}
